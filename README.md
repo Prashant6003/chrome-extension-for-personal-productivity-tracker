@@ -16,4 +16,4 @@ This Chrome Extension is a personal productivity tracker built using React.js, d
 
 *OUTPUT*
 
-![Image](https://github.com/user-attachments/assets/c9406e21-3f38-4e1d-8c54-d5f95b2d5b36)
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/1141f87a-8e14-49ca-96ea-8d1a3777eec9" />
